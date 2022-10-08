@@ -1,0 +1,6 @@
+[submodule "Programación I/UPSLP-PROGRA1_Proyecto-Almacen"]
+	path = Programación I/UPSLP-PROGRA1_Proyecto-Almacen
+	url = https://github.com/PacifiK2460/UPSLP-PROGRA1_Proyecto-Almacen.git
+[submodule "Programación II/Programación II/UPSLP-PROGRA2_Proyecto-Rutas"]
+	path = Programación II/Programación II/UPSLP-PROGRA2_Proyecto-Rutas
+	url = https://github.com/PacifiK2460/UPSLP-PROGRA2_Proyecto-Rutas.git
